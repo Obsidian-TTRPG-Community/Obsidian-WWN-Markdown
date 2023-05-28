@@ -1,0 +1,19 @@
+# Ignore Mac system files
+.DS_store
+
+# Ignore Obsidian Files
+.obsidian
+.obsidian/themes
+.trash
+
+# Ignore Certain Folders
+
+Other/
+
+# Coding Stuff
+.vscode
+.eslint
+.prettierrc
+/.idea/
+/scripts/
+/templates/
