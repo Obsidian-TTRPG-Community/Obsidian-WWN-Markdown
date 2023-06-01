@@ -1,6 +1,7 @@
 ---
 aliases: [Opposed Skill Check]
+created: 
 page: 41
 tags: WWN
-title: Opposed Skill Check
+updated: 
 ---

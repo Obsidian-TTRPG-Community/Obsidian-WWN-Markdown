@@ -1,6 +1,7 @@
 ---
 aliases: [Monster Shapes and Appearances]
+created: 2023-06-01
 page: 285
 tags: WWN
-title: Monster Shapes and Appearances
+updated: 2023-06-01
 ---

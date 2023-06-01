@@ -1,6 +1,7 @@
 ---
 aliases: [Location Tags]
+created: 2023-06-01
 page: 147
 tags: WWN
-title: Location Tags
+updated: 2023-06-01
 ---

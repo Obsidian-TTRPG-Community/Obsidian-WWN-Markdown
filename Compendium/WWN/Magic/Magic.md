@@ -1,8 +1,9 @@
 ---
 aliases: [Magic]
+created: 2023-05-31
 page: 60
 tags: WWN
-title: Magic
+updated: 2023-06-01
 ---
 
 

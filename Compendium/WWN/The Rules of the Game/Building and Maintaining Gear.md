@@ -1,6 +1,7 @@
 ---
 aliases: [Building and Maintaining Gear]
+created: 
 page: 58
 tags: WWN
-title: Building and Maintaining Gear
+updated: 
 ---

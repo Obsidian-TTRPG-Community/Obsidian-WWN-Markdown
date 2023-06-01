@@ -1,6 +1,7 @@
 ---
 aliases: [Judging Combat Challenges]
+created: 2023-06-01
 page: 295
 tags: WWN
-title: Judging Combat Challenges
+updated: 2023-06-01
 ---

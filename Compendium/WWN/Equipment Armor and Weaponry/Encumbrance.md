@@ -1,6 +1,7 @@
 ---
 aliases: [Encumbrance]
+created: 2023-05-31
 page: 32
 tags: WWN
-title: Encumbrance
+updated: 2023-05-31
 ---

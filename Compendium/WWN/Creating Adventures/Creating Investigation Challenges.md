@@ -1,6 +1,7 @@
 ---
 aliases: [Creating Investigation Challenges]
+created: 
 page: 248
 tags: WWN
-title: Creating Investigation Challenges
+updated: 
 ---

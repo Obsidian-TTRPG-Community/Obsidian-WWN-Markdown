@@ -1,6 +1,7 @@
 ---
 aliases: [Magical Armor and Shields]
+created: 
 page: 262
 tags: WWN
-title: Magical Armor and Shields
+updated: 
 ---

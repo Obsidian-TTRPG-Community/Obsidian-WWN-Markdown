@@ -1,6 +1,7 @@
 ---
 aliases: [High Magic Spell List]
+created: 2023-05-31
 page: 64
 tags: WWN
-title: High Magic Spell List
+updated: 2023-06-01
 ---

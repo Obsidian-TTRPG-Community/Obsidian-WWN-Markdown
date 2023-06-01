@@ -1,6 +1,7 @@
 ---
 aliases: [Asset Locations and Movement]
+created: 
 page: 325
 tags: WWN
-title: Asset Locations and Movement
+updated: 
 ---

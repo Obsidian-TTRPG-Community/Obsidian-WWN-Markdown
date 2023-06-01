@@ -1,6 +1,7 @@
 ---
 aliases: [Hirelings and Servitors]
+created: 
 page: 342
 tags: WWN
-title: Hirelings and Servitors
+updated: 
 ---

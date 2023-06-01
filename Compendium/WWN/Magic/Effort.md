@@ -1,6 +1,7 @@
 ---
 aliases: [Arts and Effort]
+created: 2023-05-31
 page: 63
 tags: WWN
-title: Effort
+updated: 2023-06-01
 ---

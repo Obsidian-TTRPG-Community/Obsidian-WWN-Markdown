@@ -1,6 +1,7 @@
 ---
 aliases: [Mortal Wounds and Stabilizing]
+created: 
 page: 
 tags: WWN
-title: Mortal Wounds and Stabilizing
+updated: 
 ---

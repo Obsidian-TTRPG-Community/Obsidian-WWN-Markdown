@@ -1,6 +1,7 @@
 ---
 aliases: [Adjusting Monster Statistics]
+created: 2023-06-01
 page: 294
 tags: WWN
-title: Adjusting Monster Statistics
+updated: 2023-06-01
 ---

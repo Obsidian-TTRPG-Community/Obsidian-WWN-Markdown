@@ -1,6 +1,7 @@
 ---
 aliases: ["Grimoires, Exemplars, and Calyxes"]
+created: 
 page: 
 tags: WWN
-title: Grimoires Exemplars and Calyxes
+updated: 
 ---

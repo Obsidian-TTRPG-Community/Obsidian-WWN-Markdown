@@ -1,6 +1,7 @@
 ---
 aliases: [System Strain]
+created: 
 page: 48
 tags: WWN
-title: System Strain
+updated: 
 ---

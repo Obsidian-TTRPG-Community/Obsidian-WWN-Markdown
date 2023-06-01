@@ -1,6 +1,7 @@
 ---
 aliases: [Uncanny Powers and Abilities]
+created: 2023-06-01
 page: 288
 tags: WWN
-title: Uncanny Powers and Abilities
+updated: 2023-06-01
 ---

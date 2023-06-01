@@ -1,6 +1,7 @@
 ---
 aliases: [Wilderness Exploration]
+created: 
 page: 50
 tags: WWN
-title: Wilderness Exploration
+updated: 
 ---

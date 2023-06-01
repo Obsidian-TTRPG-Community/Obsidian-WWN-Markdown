@@ -1,6 +1,7 @@
 ---
 aliases: [Contextualizing Your Monsters]
+created: 2023-06-01
 page: 299
 tags: WWN
-title: Contextualizing Your Monsters
+updated: 2023-06-01
 ---

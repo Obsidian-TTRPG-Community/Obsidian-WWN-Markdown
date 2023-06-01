@@ -1,6 +1,7 @@
 ---
 aliases: [Cursed Magical Weapons]
+created: 
 page: 271
 tags: WWN
-title: Cursed Magical Weapons
+updated: 
 ---

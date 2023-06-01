@@ -1,6 +1,7 @@
 ---
 aliases: [Handling Wealth In Your Campaign]
+created: 
 page: 260
 tags: WWN
-title: Handling Wealth In Your Campaign
+updated: 
 ---

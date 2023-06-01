@@ -1,6 +1,7 @@
 ---
 aliases: [Drudges]
+created: 2023-06-01
 page: 308
 tags: WWN
-title: Drudges
+updated: 2023-06-01
 ---

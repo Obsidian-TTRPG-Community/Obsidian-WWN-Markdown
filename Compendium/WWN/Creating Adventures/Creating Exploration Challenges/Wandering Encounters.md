@@ -1,6 +1,7 @@
 ---
 aliases: [Wandering Encounters]
+created: 
 page: 246
 tags: WWN
-title: Wandering Encounters
+updated: 
 ---

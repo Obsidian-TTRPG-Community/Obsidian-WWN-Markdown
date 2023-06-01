@@ -1,6 +1,7 @@
 ---
 aliases: [Tuhulot]
+created: 2023-06-01
 page: 319
 tags: WWN
-title: Tuhulot
+updated: 2023-06-01
 ---

@@ -1,6 +1,7 @@
 ---
 aliases: [High Mages]
+created: 2023-05-31
 page: 66
 tags: WWN
-title: High Mages
+updated: 2023-06-01
 ---

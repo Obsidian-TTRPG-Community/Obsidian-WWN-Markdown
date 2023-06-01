@@ -1,6 +1,7 @@
 ---
 aliases: [Ruin Tags]
+created: 2023-06-01
 page: 186
 tags: WWN
-title: Ruin Tags
+updated: 2023-06-01
 ---

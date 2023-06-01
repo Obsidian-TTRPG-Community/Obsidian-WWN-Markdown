@@ -1,6 +1,7 @@
 ---
 aliases: [Imperators]
+created: 2023-06-01
 page: 316
 tags: WWN
-title: Imperators
+updated: 2023-06-01
 ---

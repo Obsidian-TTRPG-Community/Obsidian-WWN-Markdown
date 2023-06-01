@@ -1,8 +1,9 @@
 ---
 aliases: [Injury Healing and System Strain]
+created: 
 page: 48
 tags: WWN
-title: Injury Healing and System Strain
+updated: 
 ---
 
 

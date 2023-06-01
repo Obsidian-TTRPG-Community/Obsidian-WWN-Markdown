@@ -1,8 +1,9 @@
 ---
 aliases: [Creating Your Campaign]
+created: 2023-06-01
 page: 114
 tags: WWN
-title: Creating Your Campaign
+updated: 2023-06-01
 ---
 
 

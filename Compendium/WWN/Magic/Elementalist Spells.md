@@ -1,6 +1,7 @@
 ---
 aliases: [Elementalist Spells]
+created: 2023-05-31
 page: 78
 tags: WWN
-title: Elementalist Spells
+updated: 2023-06-01
 ---

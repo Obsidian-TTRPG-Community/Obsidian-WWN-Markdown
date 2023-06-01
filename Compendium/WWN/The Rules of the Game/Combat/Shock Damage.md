@@ -1,6 +1,7 @@
 ---
 aliases: [Shock Damage]
+created: 
 page: 43
 tags: WWN
-title: Shock Damage
+updated: 
 ---

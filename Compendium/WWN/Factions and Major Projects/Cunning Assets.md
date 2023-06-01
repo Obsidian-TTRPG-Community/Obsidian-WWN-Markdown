@@ -1,6 +1,7 @@
 ---
 aliases: [Cunning Assets]
+created: 
 page: 328
 tags: WWN
-title: Cunning Assets
+updated: 
 ---

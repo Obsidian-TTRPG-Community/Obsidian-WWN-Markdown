@@ -1,6 +1,7 @@
 ---
 aliases: [Hirelings and Day Labor]
+created: 2023-05-31
 page: 34
 tags: WWN
-title: Hirelings and Day Labor
+updated: 2023-05-31
 ---

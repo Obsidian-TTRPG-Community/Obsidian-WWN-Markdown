@@ -1,6 +1,7 @@
 ---
 aliases: [Spell and Arts]
+created: 2023-05-31
 page: 62
 tags: WWN
-title: Spell and Arts
+updated: 2023-06-01
 ---

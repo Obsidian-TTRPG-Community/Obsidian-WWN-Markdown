@@ -1,6 +1,7 @@
 ---
 aliases: [Religion Construction]
+created: 2023-06-01
 page: 140
 tags: WWN
-title: Religion Construction
+updated: 2023-06-01
 ---

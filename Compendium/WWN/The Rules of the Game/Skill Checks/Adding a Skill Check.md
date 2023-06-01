@@ -1,6 +1,7 @@
 ---
 aliases: [Adding a Skill Check]
+created: 
 page: 41
 tags: WWN
-title: Adding a Skill Check
+updated: 
 ---
