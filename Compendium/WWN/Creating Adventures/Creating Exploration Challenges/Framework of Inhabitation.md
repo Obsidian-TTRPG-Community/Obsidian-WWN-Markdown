@@ -1,7 +1,6 @@
 ---
 aliases: [Framework of Inhabitation]
-created: 
 page: 239
 tags: WWN
-updated: 
+title: Framework of Inhabitation
 ---
