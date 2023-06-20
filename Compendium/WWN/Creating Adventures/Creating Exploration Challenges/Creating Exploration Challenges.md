@@ -1,9 +1,8 @@
 ---
 aliases: [Creating Exploration Challenges]
-created: 
 page: 234
 tags: WWN
-updated: 
+title: Creating Exploration Challenges
 ---
 
 

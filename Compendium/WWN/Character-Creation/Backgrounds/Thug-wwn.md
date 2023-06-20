@@ -1,0 +1,6 @@
+---
+aliases: [Thug]
+page: 17
+tags: WWN/Character/Backgrounds
+title: Thug
+---

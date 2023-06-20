@@ -1,9 +1,8 @@
 ---
 aliases: [Skill Checks]
-created: 
 page: 41
 tags: WWN
-updated: 
+title: Skill Checks
 ---
 
 
