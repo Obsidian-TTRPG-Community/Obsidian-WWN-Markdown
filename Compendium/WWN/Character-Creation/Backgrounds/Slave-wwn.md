@@ -18,4 +18,3 @@ Slavery in this world encompasses a wide range of experiences, from the privileg
 |            |              |             |             | 7           | Survive    |
 |            |              |             |             | 8           | Work       |
 ^WWN-Background-Slave-Skills
-

@@ -19,4 +19,3 @@ Your hero served as a healer, providing vital medical assistance to those in nee
 |            |              |             |             | 7           | Convince   |
 |            |              |             |             | 8           | Trade      |
 ^WWN-Background-Physician-Skills
-
