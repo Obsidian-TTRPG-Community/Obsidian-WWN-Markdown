@@ -5,7 +5,7 @@ tags: WWN/Character/Attributes
 title: Attributes
 ---
 
-A hero's attributes determine their native capacities, ranging from 3 to 18. Lower scores indicate deficiencies, while higher scores reflect greater development and potential.
+A hero's attributes determine their native capacities, ranging from 3 to 18. Lower scores indicate deficiencies, while higher scores reflect greater development and potential. 
 
 ## Generate Scores
 
@@ -34,9 +34,9 @@ To generate attribute scores, roll `dice: 3d6` six times and assign them in orde
 > | `dice: 3d6` | Charisma     |
 ^WWN-Attributes-Roll-Table
 
-If the scores are rolled, one attribute can be changed to **14** to represent the hero's exceptional proficiency.
+If the scores are rolled, one attribute can be changed to **14** to represent the hero's exceptional proficiency. 
 
->[!note] Some GMs allow players to place rolled scores in any attribute, while others maintain the original order to encourage diverse character concepts.
+>[!note] Some GMs allow players to place rolled scores in any attribute, while others maintain the original order to encourage diverse character concepts. 
 
 Alternatively, a set of predetermined scores can be used. 14, 12, 11, 10, 9, and 7 can be used and assigned to an attribute score.
 

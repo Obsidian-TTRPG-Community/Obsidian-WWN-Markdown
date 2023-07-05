@@ -11,7 +11,7 @@ title: Summary of Character Creation
 This is a quick summary of the character creation process. Grab a copy of the Character Sheet included within the [Worlds Without Number: Free Edition](https://www.drivethrurpg.com/product/348809/Worlds-Without-Number-Free-Edition?cPath=5875_38601) and follow along.
 
 > [!note] Picking Skills
-> Some steps indicate you should roll or pick from the items on the [[Compendium/WWN/Character-Creation/Skills-wwn|Skill List]], or Page 10 of the sourcebook. The skill level increases each time it is picked:
+> Some steps indicate you should roll or pick from the items on the [[Compendium/WWN/Character-Creation/Skills/Skill-List-wwn|Skill List]], or Page 10 of the sourcebook. The skill level increases each time it is picked:
 > 
 > - 1st Time: Level 0
 > - 2nd Time: Level 1
