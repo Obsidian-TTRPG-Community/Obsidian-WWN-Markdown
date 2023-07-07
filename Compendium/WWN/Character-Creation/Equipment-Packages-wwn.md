@@ -18,7 +18,7 @@ Choose your starting equipment package or roll for silver and begin equipping yo
 |----------------------------------------|-----|
 | War Shirt (AC 11)                      | 0   |
 | Large Spear (AC 14 when held)          | 1   |
-| Light Spear (1d6 dmg, Shock 2/AC 13  ) | 1   |
+| Light Spear (1d6 dmg, Shock 2/AC 13) | 1   |
 | Dagger (1d4 dmg, Shock 1/AC 15)        | 1   |
 | Backpack                               | 1   |
 | Rations, 1 Week                        | 4   |

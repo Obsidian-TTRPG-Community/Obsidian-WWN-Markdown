@@ -29,16 +29,15 @@ If you already have this skill at level-0, it will automatically advance to leve
 > [!summary] Free Skills
 > Consider your character's background, story and personality to determine the most suitable skill that aligns with their past interests or expertise. Did your magical character want to compensate for any weaknesses and chose something that increases their physical prowess? Did you warrior who was village was illiterate, prioritise the reading and writing arts, or did they become proficient at book burning?
 
-
 ## The Saving Throws
 
 To determine your beginning saving throw scores, follow the guidelines below:
 
-1. Physical Save: This save is used to resist effects such as poison, disease or exhaustion. Calculate it as 15 minus the highest modifier between your Strength and Constitution. For example, if your Strength modifier is +2 and your Constitution modifier is +3, your Physical save would be 15 – 3 = 12.
+1. Physical Save: This save is used to resist effects such as poison, disease or exhaustion. Calculate it as 15 minus the highest modifier between your Strength and Constitution. For example, if your Strength modifier is +2 and your Constitution modifier is +3, your Physical save would be 15–3 = 12.
 
-2. Evasion Save: This save is employed to dodge sudden perils or evade explosive situations. Determine it as 15 minus the highest modifier between your Intelligence and Dexterity. For instance, if your Intelligence modifier is +1 and your Dexterity modifier is +4, your Evasion save would be 15 – 4 = 11.
+2. Evasion Save: This save is employed to dodge sudden perils or evade explosive situations. Determine it as 15 minus the highest modifier between your Intelligence and Dexterity. For instance, if your Intelligence modifier is +1 and your Dexterity modifier is +4, your Evasion save would be 15–4 = 11.
 
-3. Mental Save: This save is utilised to resist psychic influence or mind-bending sorceries. Calculate it as 15 minus the highest modifier between your Wisdom and Charisma. For example, if your Wisdom modifier is +3 and your Charisma modifier is +2, your Mental save would be 15 – 3 = 12.
+3. Mental Save: This save is utilised to resist psychic influence or mind-bending sorceries. Calculate it as 15 minus the highest modifier between your Wisdom and Charisma. For example, if your Wisdom modifier is +3 and your Charisma modifier is +2, your Mental save would be 15–3 = 12.
 
 4. Luck Save: This save has a flat score of 15 and is rolled against when blind luck becomes your only saviour. Unlike the other saving throws, the Luck save does not depend on any ability modifiers and remains constant.
 
@@ -97,11 +96,11 @@ Next, note down the Armor Class (AC) of the armor you usually wear. If you are u
 
 ## Who are You?
 
-Finally, bestow a fitting name upon your newly-created hero. Additionally, give them a compelling goal in life, and a why their willingness to embark on adventures alongside their fellow PCs. It is crucial for each player character to have an active objective, something they are willing to risk their lives for. While goals may evolve over the course of the game, it is important to ensure they do not interfere with the enjoyment of the rest of the group. 
+Finally, bestow a fitting name upon your newly-created hero. Additionally, give them a compelling goal in life, and a why their willingness to embark on adventures alongside their fellow PCs. It is crucial for each player character to have an active objective, something they are willing to risk their lives for. While goals may evolve over the course of the game, it is important to ensure they do not interfere with the enjoyment of the rest of the group.
 
 Furthermore, establish a why for your character to trust and collaborate with their comrades. While personal affections may not be present, there should be enough faith in each other to undertake daring adventures together.
 
 > [!example]- Adara Stormrider
 > **Name**: Adara Stormrider
-> **Goal**: To uncover the truth behind her family's mysterious disappearance and bring those responsible to justice. 
+> **Goal**: To uncover the truth behind her family's mysterious disappearance and bring those responsible to justice.
 > **Reason for Adventuring**: Adara believes that by venturing into the world and undertaking perilous quests, she will uncover clues and secrets that will lead her closer to the truth about her family's fate. She is driven by a deep sense of duty, and the desire to bring closure to her own personal tragedy. Alongside the other PCs, Adara sees an opportunity to find allies who share her desire for justice and have the skills and resources to aid her in her quest. While she may not necessarily trust them completely at first, Adara recognises the value in working together towards a common goal and believes that by pooling their strengths, they stand a better chance of overcoming the challenges that lie ahead. Through shared experiences, and the bonds formed during their adventures, she hopes to build a strong foundation of trust and camaraderie among the group.

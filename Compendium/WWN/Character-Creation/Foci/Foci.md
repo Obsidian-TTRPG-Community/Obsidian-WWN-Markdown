@@ -15,10 +15,35 @@ Additionally, a Warrior or Partial Warrior can choose one Focus related to their
 
 ## Index
 
-```dataview
-table without ID
-page as Page,
-link(file.path, title) as Name
-from #WWN/Character/Foci
-sort page Asc
-```
+| Page | Name                                                                                     |
+|------|------------------------------------------------------------------------------------------|
+| 23   | [Authority](Compendium/WWN/Character-Creation/Foci/Authority-wwn.md)                     |
+| 23   | [Close Combatant](Compendium/WWN/Character-Creation/Foci/Close-Combatant-wwn.md)         |
+| 23   | [Cultured](Compendium/WWN/Character-Creation/Foci/Cultured-wwn.md)                       |
+| 23   | [Connected](Compendium/WWN/Character-Creation/Foci/Connected-wwn.md)                     |
+| 23   | [Deadeye](Compendium/WWN/Character-Creation/Foci/Deadeye-wwn.md)                         |
+| 24   | [Dealmaker](Compendium/WWN/Character-Creation/Foci/Dealmaker-wwn.md)                     |
+| 24   | [Developed Attribute](Compendium/WWN/Character-Creation/Foci/Developed-Attribute-wwn.md) |
+| 24   | [Die Hard](Compendium/WWN/Character-Creation/Foci/Die-Hard-wwn.md)                       |
+| 24   | [Diplomatic Grace](Compendium/WWN/Character-Creation/Foci/Diplomatic-Grace-wwn.md)       |
+| 24   | [Gifted Chirugeon](Compendium/WWN/Character-Creation/Foci/Gifted-Chirugeon-wwn.md)       |
+| 24   | [Impervious Defense](Compendium/WWN/Character-Creation/Foci/Impervious-Defense-wwn.md)   |
+| 24   | [Henchkeeper](Compendium/WWN/Character-Creation/Foci/Henchkeeper-wwn.md)                 |
+| 25   | [Imposter](Compendium/WWN/Character-Creation/Foci/Imposter-wwn.md)                       |
+| 25   | [Lucky](Compendium/WWN/Character-Creation/Foci/Lucky-wwn.md)                             |
+| 25   | [Nullifier](Compendium/WWN/Character-Creation/Foci/Nullifier-wwn.md)                     |
+| 25   | [Poisoner](Compendium/WWN/Character-Creation/Foci/Poisoner-wwn.md)                       |
+| 25   | [Rider](Compendium/WWN/Character-Creation/Foci/Rider-wwn.md)                             |
+| 25   | [Polymath](Compendium/WWN/Character-Creation/Foci/Polymath-wwn.md)                       |
+| 26   | [Shocking Assault](Compendium/WWN/Character-Creation/Foci/Shocking-Assault-wwn.md)       |
+| 26   | [Snipers Eye](Compendium/WWN/Character-Creation/Foci/Snipers-Eye-wwn.md)                 |
+| 26   | [Special Origin](Compendium/WWN/Character-Creation/Foci/Special-Origin-wwn.md)           |
+| 26   | [Specialist](Compendium/WWN/Character-Creation/Foci/Specialist-wwn.md)                   |
+| 26   | [Spirit Familiar](Compendium/WWN/Character-Creation/Foci/Spirit-Familiar-wwn.md)         |
+| 26   | [Trapmaster](Compendium/WWN/Character-Creation/Foci/Trapmaster-wwn.md)                   |
+| 27   | [Unarmed Combatant](Compendium/WWN/Character-Creation/Foci/Unarmed-Combatant-wwn.md)     |
+| 27   | [Unique Gift](Compendium/WWN/Character-Creation/Foci/Unique-Gift-wwn.md)                 |
+| 27   | [Valiant Defender](Compendium/WWN/Character-Creation/Foci/Valiant-Defender-wwn.md)       |
+| 27   | [Well Met](Compendium/WWN/Character-Creation/Foci/Well-Met-wwn.md)                       |
+| 27   | [Whirlwind Assault](Compendium/WWN/Character-Creation/Foci/Whirlwind-Assault-wwn.md)     |
+| 27   | [Xenoblooded](Compendium/WWN/Character-Creation/Foci/Xenoblooded-wwn.md)                 |

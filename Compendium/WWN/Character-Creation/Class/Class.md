@@ -4,6 +4,7 @@ page: 18
 tags: WWN/Character/Class
 title: Class
 ---
+
 ## Index
 
 - [[Compendium/WWN/Character-Creation/Class/Expert-wwn|The Expert]]
@@ -17,10 +18,10 @@ A hero's background is a reflection of upbringing and circumstance, but a **clas
 
 There are four classes available, each with their own individual skillsets and playstyles.
 
-Each class page includes the class's attack bonus, focus, and hit dice. 
+Each class page includes the class's attack bonus, focus, and hit dice.
 
 > [!hint] You are a hero, and heroes come from everywhere
-> When choosing a class, do not feel like you must choose one that fits your background. A thug can be a mage, a noble can be an expert, and a courtesan can be a warrior. Choose the class the fits the combat style your hero excels in. 
+> When choosing a class, do not feel like you must choose one that fits your background. A thug can be a mage, a noble can be an expert, and a courtesan can be a warrior. Choose the class the fits the combat style your hero excels in.
 
 ### Experts
 
@@ -33,7 +34,6 @@ Mages encompass a diverse range of heroes, including traditional wizards, magica
 ### Warriors
 
 Warriors are skilled fighters who employ swords, bows, or their own fists to confront and conquer adversaries, ensuring their own survival in the midst of violence. Combat is a perilous endeavor in this world, where death lurks around every corner for all heroes. However, Warriors possess the necessary abilities to endure errors that would prove fatal to others and triumph over opponents who would overpower less martial individuals.
-
 
 ### Adventurers
 

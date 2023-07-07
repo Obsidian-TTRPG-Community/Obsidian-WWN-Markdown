@@ -4,7 +4,7 @@ page: 24
 tags: WWN/Character/Foci
 title: Henchkeeper
 ---
-You possess a unique talent for recruiting and commanding lost souls who willingly serve you. Through promises of various rewards such as wealth, power, excitement, or even personal desires, you are able to entice individuals to become your loyal henchmen. These henchmen will remain devoted to you unless they experience clear betrayal or are placed in unacceptable danger. 
+You possess a unique talent for recruiting and commanding lost souls who willingly serve you. Through promises of various rewards such as wealth, power, excitement, or even personal desires, you are able to entice individuals to become your loyal henchmen. These henchmen will remain devoted to you unless they experience clear betrayal or are placed in unacceptable danger.
 
 Typically, these henchmen come from the fringes of society, including outcasts, the desperate, or those with limited options. While you can use traditional means like payment or inducements to acquire additional henchmen, their loyalty and competence will be directly proportional to the treatment and compensation you provide.
 

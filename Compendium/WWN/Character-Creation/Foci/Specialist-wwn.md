@@ -8,4 +8,4 @@ You possess an exceptional level of talent in a specific skill, surpassing ordin
 
 - [ ] **Level 1**: You gain any skill of your choice as a bonus, except for Magic, Stab, Shoot or Punch. When making skill checks in this chosen skill, you roll 3d6 and discard the lowest die.
 
-- [ ] **Level 2**: Building upon your initial talent, you reach an even greater level of mastery in the chosen skill. When making skill checks, you roll 4d6 and discard the two lowest dice. 
+- [ ] **Level 2**: Building upon your initial talent, you reach an even greater level of mastery in the chosen skill. When making skill checks, you roll 4d6 and discard the two lowest dice.

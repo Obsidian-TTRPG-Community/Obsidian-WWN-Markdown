@@ -4,6 +4,7 @@ page: 22
 tags: WWN/Character/Foci
 title: Armored Magic
 ---
+
 > [!warning] Class Restrictions
 > Requires [[Compendium/WWN/Character-Creation/Class/Mage-wwn|The Mage]] class, or an [[Compendium/WWN/Character-Creation/Class/Adventurer-wwn|Adventurer]] who has selected the [[Compendium/WWN/Character-Creation/Class/Adventurer-wwn#Partial Expert Partial Mage|Partial Expert/Partial Mage]] or [[Compendium/WWN/Character-Creation/Class/Adventurer-wwn#Partial Mage Partial Warrior|Partial Mage/Partial Warrior]] options.
 
