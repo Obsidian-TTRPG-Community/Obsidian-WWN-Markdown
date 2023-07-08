@@ -90,3 +90,7 @@ Your character is an adventurer in the vast and captivating world crafted by you
 Though your past might suggest a seemingly simple existence, there is an unmistakable spark within you that sets you apart. Deep down, you sense that this is your story, and you possess an innate drive to pursue a goal that may not yet be fully realized. The path you tread will be filled with fascinating encounters and intricate relationships, challenging you to navigate the complexities of the world around you.
 
 And perhaps, as you delve deeper into your journey, you will come to realize that your story intertwines with the destinies of others. The web of interconnectedness reveals itself, and you begin to understand that your quest holds significance beyond your own desires. Together with those whom you've come to work with, entities who wish to see you burn, and those between, you will find that your small choices make all the difference.
+<<<<<<< HEAD
+=======
+
+>>>>>>> 917f0d4 (Minor(Character-Creation) Fix Tertiary Missing Data)
