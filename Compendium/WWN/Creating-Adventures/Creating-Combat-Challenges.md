@@ -81,7 +81,7 @@ Everyone serves some purpose in the world, even if it's as low as harassing merc
 
 Leverage these tables to spice up your combat challenges with complications and twists and avoid a slog of an encounter. Pick a table relevant to the situation and roll or select from it.
 
-`dice: 1d12` | What's Going On Right Now?
+1d12: `dice: 1d12` | What's Going On Right Now?
 -- | :--
 1 | They lost a fight or had an accident, and are tending their wounded
 2 | They're absorbed in eating a meal
@@ -96,7 +96,7 @@ Leverage these tables to spice up your combat challenges with complications and 
 11 | They're lolling around in indolent idleness
 12 | They're conducting the business of daily life and other duties of common necessity
 
-`dice: 1d12` | What Problems Do They Have?
+1d12: `dice: 1d12` | What Problems Do They Have?
 -- | :--
 1 | An ambitious underling plots against the leader or undermines their control
 2 | They're arguing over the fair division of some recently-gained spoils
@@ -111,7 +111,7 @@ Leverage these tables to spice up your combat challenges with complications and 
 11 | They've been driven from their usual home by an enemy or a natural hazard
 12 | Some of their members have been taken prisoner or lost
 
-`dice: 1d20` | Twists About the Target or their Allies
+1d20: `dice: 1d20` | Twists About the Target or their Allies
 -- | :--
 1 | They are or have access to spellcasters or mages of some kind
 2 | They have a useful magical power uncommon to their kind
@@ -134,7 +134,7 @@ Leverage these tables to spice up your combat challenges with complications and 
 19 | Some other group has a spy or observer who is watching during a potential conflict
 20 | The leader is an impostor or catspaw of some power that would normally be their enemy, and acts as best they can to serve them
 
-`dice: 1d12` | What's That Bestial Monster Doing?
+1d12: `dice: 1d12` | What's That Bestial Monster Doing?
 -- | :--
 1 | It's eaten recently and is lolling around, disinclined to hunt new prey
 2 | It's fighting with another of its kind over a mate
@@ -149,7 +149,7 @@ Leverage these tables to spice up your combat challenges with complications and 
 11 | It's grooming itself or engaging in behavior specific to its type of creature
 12 | It's starving, and is ravenous for prey that it might dare attack in more prosperous times
 
-`dice: 1d12` | Urban Dwelling Complications
+1d12: `dice: 1d12` | Urban Dwelling Complications
 -- | :--
 1 | An inquisitive neighbor is always watching the place
 2 | The guards are unusually vigilant and attentive to their duties for some reason
@@ -164,7 +164,7 @@ Leverage these tables to spice up your combat challenges with complications and 
 11 | There are several traps or alarms there
 12 | It's connected to some kind of underground passages or ancient tunnels
 
-`dice: 1d12` | Wilderness Lair Complications
+1d12: `dice: 1d12` | Wilderness Lair Complications
 -- | :--
 1 | Hazardous flora make up a natural trap for those ignorant of their perils
 2 | Numerous deadfalls or covered pits have been placed on side paths here
@@ -179,7 +179,7 @@ Leverage these tables to spice up your combat challenges with complications and 
 11 | Unrelated people are also living in or near it, and disturbing them would be hazardous
 12 | It's contaminated with soured magical energy, a damaged Working, or some other curse
 
-`dice: 1d12` | Deep Chamber Complications
+1d12: `dice: 1d12` | Deep Chamber Complications
 -- | :--
 1 | A dangerous standing magical effect is present in the room
 2 | Part of the structure is fragile and prone to collapse if damaged
