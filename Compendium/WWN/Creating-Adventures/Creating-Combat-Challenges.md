@@ -149,7 +149,7 @@ Leverage these tables to spice up your combat challenges with complications and 
 11 | It's grooming itself or engaging in behavior specific to its type of creature
 12 | It's starving, and is ravenous for prey that it might dare attack in more prosperous times
 
-`dice: 1d12` | ==Urban Dwelling Complications==
+`dice: 1d12` | Urban Dwelling Complications
 -- | :--
 1 | An inquisitive neighbor is always watching the place
 2 | The guards are unusually vigilant and attentive to their duties for some reason
