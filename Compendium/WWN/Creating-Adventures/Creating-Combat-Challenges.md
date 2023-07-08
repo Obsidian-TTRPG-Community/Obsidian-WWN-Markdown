@@ -4,7 +4,7 @@ aliases: [Creating Combat Challenges]
 
 page: 230
 
-tags: WWN/Creation
+tags: WWN/CreatingAdventures
 
 title: Creating Combat Challenges
 
