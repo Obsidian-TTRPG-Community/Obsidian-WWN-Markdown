@@ -1,7 +1,6 @@
 ---
 aliases: [Poisons and Diseases]
-created: 
 page: 48
 tags: WWN
-updated: 
+title: Poisons and Diseases
 ---

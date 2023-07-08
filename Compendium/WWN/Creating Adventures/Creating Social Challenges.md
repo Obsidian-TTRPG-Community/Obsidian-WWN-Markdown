@@ -1,7 +1,6 @@
 ---
 aliases: [Creating Social Challenges]
-created: 
 page: 252
 tags: WWN
-updated: 
+title: Creating Social Challenges
 ---

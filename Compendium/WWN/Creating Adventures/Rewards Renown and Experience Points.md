@@ -1,7 +1,6 @@
 ---
 aliases: ["Rewards, Renown, and Experience Points"]
-created: 
 page: 254
 tags: WWN
-updated: 
+title: Rewards Renown and Experience Points
 ---

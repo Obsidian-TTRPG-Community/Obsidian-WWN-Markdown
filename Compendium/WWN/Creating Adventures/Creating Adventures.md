@@ -1,7 +1,6 @@
 ---
 aliases: [Creating Adventures]
-created: 
 page: 222
 tags: WWN
-updated: 
+title: Creating Adventures
 ---

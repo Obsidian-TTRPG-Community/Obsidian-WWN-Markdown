@@ -1,9 +1,8 @@
 ---
 aliases: ["Equipment, Armor, and Weaponry"]
-created: 2023-05-31
 page: 32
 tags: WWN
-updated: 2023-05-31
+title: Equipment Armor and Weaponry
 ---
 
 
@@ -12,7 +11,7 @@ updated: 2023-05-31
 
 %% Begin Waypoint %%
 - [Adventuring Gear](./Adventuring%20Gear.md)
-- [Armor](./Armor.md)
+- [Armor-wwn](./Armor-wwn.md)
 - [Beasts and Transport](./Beasts%20and%20Transport.md)
 - [Encumbrance](./Encumbrance.md)
 - [Equipment Armor and Weaponry](./Equipment%20Armor%20and%20Weaponry.md)

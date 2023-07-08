@@ -1,9 +1,8 @@
 ---
 aliases: [Combat]
-created: 
 page: 42
 tags: WWN
-updated: 
+title: Combat
 ---
 
 
