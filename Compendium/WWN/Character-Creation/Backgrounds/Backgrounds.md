@@ -31,12 +31,11 @@ title: Backgrounds
 |                20 | [Wanderer](Compendium/WWN/Character-Creation/Backgrounds/Wanderer-wwn.md)   | 17   |
 ^WWN-Backgrounds-List-Table
 
-
 ## Overview
 
-Choose or roll from the background table to determine your hero's previous life before becoming an adventurer, and customize the details within reason. 
+Choose or roll from the background table to determine your hero's previous life before becoming an adventurer, and customize the details within reason.
 
-Discuss with your GM for coherence with the campaign setting. 
+Discuss with your GM for coherence with the campaign setting.
 
 If your desired background isn't listed, work with the GM to create suitable options.
 
@@ -52,8 +51,8 @@ For combat skills, "Any Combat" lets you choose Stab, Shoot, or Punch. "Any Skil
 
 ### Gaining Skills and Attributes
 
-Skills start at level-0 and can be improved to level-1 by rolling or selecting them again. 
+Skills start at level-0 and can be improved to level-1 by rolling or selecting them again.
 
-Novice heroes cannot have skills higher than level-1. 
+Novice heroes cannot have skills higher than level-1.
 
 Attribute bonuses from rolling on the Growth table can be used to raise attributes, up to a maximum of 18, with a +2 bonus split between two attributes.
