@@ -18,4 +18,3 @@ Priests in this world encompass a wide range of roles and practices. Some serve 
 |            |              |             |             | 7           | Pray       |
 |            |              |             |             | 8           | Pray       |
 ^WWN-Background-Priest-Skills
-
