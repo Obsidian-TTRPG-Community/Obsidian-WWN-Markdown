@@ -9,22 +9,22 @@ title: Magic
 ## Index
 
 %% Begin Waypoint %%
-- [Building Magical Workings](./Building%20Magical%20Workings.md)
-- [Creating Magic Items](./Creating%20Magic%20Items.md)
-- [Developing New Spells](./Developing%20New%20Spells.md)
-- [Dual Partial Mage Traditions](./Dual%20Partial%20Mage%20Traditions.md)
+- [Building-Magical-Workings](Compendium/WWN/Magic/Building-Magical-Workings.md)
+- [Creating-Magic-Items](Compendium/WWN/Magic/Creating-Magic-Items.md)
+- [Developing-New-Spells](Compendium/WWN/Magic/Developing-New-Spells.md)
+- [Dual-Partial-Mage-Traditions](Compendium/WWN/Magic/Dual-Partial-Mage-Traditions.md)
 - [Effort](./Effort.md)
-- [Elementalist Spells](./Elementalist%20Spells.md)
+- [Elementalist-Spells](Compendium/WWN/Magic/Elementalist-Spells.md)
 - [Elementalists](./Elementalists.md)
 - [Healers](./Healers.md)
-- [High Mage Spells](./High%20Mage%20Spells.md)
-- [High Mages](./High%20Mages.md)
-- [High Magic Spell List](./High%20Magic%20Spell%20List.md)
+- [High-Mage-Spells](Compendium/WWN/Magic/High-Mage-Spells.md)
+- [High-Mages](Compendium/WWN/Magic/High-Mages.md)
+- [High-Magic-Spell-List](Compendium/WWN/Magic/High-Magic-Spell-List.md)
 - [Magic](./Magic.md)
-- [Necromancer Spells](./Necromancer%20Spells.md)
+- [Necromancer-Spells](Compendium/WWN/Magic/Necromancer-Spells.md)
 - [Necromancers](./Necromancers.md)
-- [Preparing and Casting Spells](./Preparing%20and%20Casting%20Spells.md)
-- [Spell and Arts](./Spell%20and%20Arts.md)
+- [Preparing-and-Casting-Spells](Compendium/WWN/Magic/Preparing-and-Casting-Spells.md)
+- [Spell-and-Arts](Compendium/WWN/Magic/Spell-and-Arts.md)
 - [Vowed](./Vowed.md)
 
 %% End Waypoint %%
